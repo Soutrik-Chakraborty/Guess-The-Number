@@ -1,14 +1,19 @@
 # Guess-The-Number
-Constrains
+
+Constrains :
 1<=T<=100
 1<=N<=250
-Input Format
+
+Input Format :
 T is single integer testcase
 N is input value for next T lines
-Output Format
+
+Output Format :
 For each testcase print separate series of N space separated numbers
-Input
+
+Input :
 1
 7
-Output
+
+Output :
 1 1 2 2 4 2 6
